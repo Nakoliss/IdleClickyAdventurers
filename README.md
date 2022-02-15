@@ -1,0 +1,2 @@
+# IdleClickyAdventurers
+Idle Game
